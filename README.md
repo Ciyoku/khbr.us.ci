@@ -1,2 +1,2 @@
-# khbr.us.ci
+# khabr.us.ci
 main Khbr projects website
